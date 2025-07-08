@@ -180,6 +180,3 @@ Using pre-trained models like BERT or GPT offers several significant benefits fo
 5.  **Accessibility:**
     * Pre-trained models make advanced NLP capabilities accessible to a wider range of users, including those without extensive machine learning expertise, large datasets, or vast computational resources. They democratize access to powerful AI.
   
-
-   ### video link ##
-   https://1drv.ms/v/c/f0028c921af54720/ERFKW6P2ZRdDutB4OypHnkwB17j9yQxtaxG2WPTQEdXbfg?e=OzCo0j
